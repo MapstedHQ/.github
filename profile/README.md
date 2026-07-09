@@ -8,11 +8,21 @@
 [![Docs](https://img.shields.io/badge/Developer%20Docs-developer.mapsted.com-1f6feb?style=flat-square)](https://developer.mapsted.com)
 [![Platform](https://img.shields.io/badge/iOS%20%7C%20Android%20%7C%20React%20Native%20%7C%20Flutter-lightgrey?style=flat-square)]()
 
+[![Patents](https://img.shields.io/badge/Patents-110%2B-6f42c1?style=flat-square)]()
+[![Countries](https://img.shields.io/badge/Countries-30%2B-2ea44f?style=flat-square)]()
+[![Coverage](https://img.shields.io/badge/Coverage-4B%2B%20sq%20ft-fb8500?style=flat-square)]()
+
 </div>
 
 ---
 
-Welcome to the official GitHub home of **Mapsted** — the public distribution point for the **Mapsted Mobile SDK** and its sample projects. Our technology delivers accurate indoor positioning and turn‑by‑turn wayfinding **without beacons, Wi‑Fi triangulation, or any on‑site hardware**.
+## 🌐 About Mapsted
+
+**Mapsted** is a location‑technology company delivering a unified platform for **positioning, mapping, navigation, and location analytics** — across indoor environments, outdoor spaces, mixed indoor–outdoor complexes, and smart cities. One technology follows a person or asset from a building lobby to an open city block.
+
+Our engineering depth is clearest indoors: Mapsted's flagship indoor positioning needs **no beacons, no Wi‑Fi, and no on‑site hardware** — solving the hardest problem in location technology through **AI and 110+ patents**. Trusted across **retail, healthcare, transit, education, and enterprise** facilities in **30+ countries** and covering **4+ billion square feet**, Mapsted powers wayfinding, navigation, asset and workforce visibility, space‑and‑flow intelligence, and smart‑city deployments worldwide.
+
+This organization is the official public distribution point for the **Mapsted Mobile SDK** and its sample projects.
 
 ## 📦 Mobile SDK
 
@@ -44,7 +54,7 @@ Full integration guides, API reference and release notes: **[developer.mapsted.c
 
 ## 💬 Support
 
-- **Sales & partnerships:** [mapsted.com/contact](https://www.mapsted.com/contact)
+- **Sales & partnerships:** [mapsted.com/contact-us](https://www.mapsted.com/contact-us)
 - **Technical support:** open an issue on the relevant repository, or reach your Mapsted representative.
 
 ---
